@@ -1,5 +1,5 @@
 # House_Prices
-Kaggle Compretition
+Kaggle Competition
 
 An example of data processing and model training using CatBoostRegressor
 
